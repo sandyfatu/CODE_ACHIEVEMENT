@@ -1,0 +1,8 @@
+
+
+1. I created a folder named code_achievement inside my workdirectory and created this file as a vs file.
+
+2. I echo in My process and checked my file is created with the ls command.
+3. I made necessary corrections on my file with vi and change dir to my work directory for vs cloning.
+*Note-I cat to check for effective-work.
+4. I cloned my github repo and add, but got an error code. 

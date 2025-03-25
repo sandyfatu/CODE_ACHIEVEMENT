@@ -1,0 +1,19 @@
+The following is a list of commands and key-functions.
+a) cp=   copies one or more files to a directory.
+
+b) mv/mv -r = renames a file or directory.
+
+c) mkdir/mkdir -r = creates multiple directories and subdirectories.
+
+d) rm/rm -r = deletes files and directories.
+
+
+e) cd / = changes to the root directory. 
+
+f)  cd ../ = changes your directory to parent directory.
+
+
+
+g) cd ~ = Changes your directory to home directory. 
+
+h) cd - = changes your directory to previous working directory. 
